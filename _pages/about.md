@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -17,11 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solutions of the slender-jet model emerging in fluid dynamics. My email is <miyu02@berkeley.edu>.
+I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solution to the slender-jet model emerging in fluid dynamics.  
 
-Prior to transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/) working with [Reuven Hodges](https://rhodges-math.github.io/). We are focusing on a pattern avoidance conjecture of the Schubert varieties indexed by the elemnts of tybe $$B_n$$ Coxeter groups. This research project is purely combinatorial in nature. 
+Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/), where I worked with [Reuven Hodges](https://rhodges-math.github.io/) on a combinatorial pattern-avoidance conjecture of the Schubert varieties indexed by the elements of tybe $$B_n$$ Coxeter groups.
 
-You may see more details about my research under the [research tab](/research/).
+**Email:** <miyu02@berkeley.edu>
+
+**Resume:** [PDF](/assets/pdf/Mingyu_Yu_Resume.pdf)
+
+<!--  
+My email is <miyu02@berkeley.edu>. I tranferred from [UC San Diego](https://math.ucsd.edu/) in 2022.
+
+  -->
+
+You may see more details about my research under the [research tab](/research/). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
