@@ -17,7 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-To be changed. 
+I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solutions of the slender-jet model emerging in fluid dynamics. My email is <miyu02@berkeley.edu>.
+
+Prior to transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/) working with [Reuven Hodges](https://rhodges-math.github.io/). We are focusing on a pattern avoidance conjecture of the Schubert varieties indexed by the elemnts of tybe $$B_n$$ Coxeter groups. This research project is purely combinatorial in nature. 
+
+You may see more details about my research under the [research tab](/research/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
