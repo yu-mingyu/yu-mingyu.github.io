@@ -19,16 +19,13 @@ social: false  # includes social icons at the bottom of the page
 
 I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solution to the slender-jet model emerging in fluid dynamics.  
 
-Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/), where I worked with [Reuven Hodges](https://rhodges-math.github.io/) on a combinatorial pattern-avoidance conjecture of the Schubert varieties indexed by the elements of tybe $$B_n$$ Coxeter groups.
+Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/), where I worked with [Reuven Hodges](https://rhodges-math.github.io/) on a combinatorial pattern-avoidance conjecture of maximal sphericality of the elements of tybe $$B_n$$ Coxeter groups.
 
 **Email:** <miyu02@berkeley.edu>
 
 **Resume:** [PDF](/assets/pdf/Mingyu_Yu_Resume.pdf)
 
-<!--  
-My email is <miyu02@berkeley.edu>. I tranferred from [UC San Diego](https://math.ucsd.edu/) in 2022.
-
-  -->
+<!-- Here ([PDF]) is the discriptions of upper division courses that I have taken.   -->
 
 You may see more details about my research under the [research tab](/research/). 
 
