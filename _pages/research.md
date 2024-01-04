@@ -43,9 +43,39 @@ You may see my full report here (will be updated soon).
 
 ## A pattern avoidance conjecture for maximal sphericality of type B Coxeter groups
 
-To be updated.
+To be updated
 
 ## Exploratory studies
 ### L-curve and discrete ill-posed prblems
 
-To be updated.
+The Tikhnov regularization is a popular approach to solve the **ill-posed** algebraic problem $$\min \|Ax-b\|_2,$$ where the matrix $$A$$ is ill-conditioned and some of its singular values gradually decay to 0. Given the default solution $$x_0,$$ the Tikhonov regularization requires the minimization of 
+
+$$
+\begin{aligned}
+    \Omega(x) = \|L(x-x_0)\|_2^2,
+\end{aligned}
+$$
+
+where $$L$$ is a banded matrix with full row rank. Tikhonov regularized solution $$x_\lambda$$ solves the following least square problem:
+
+$$
+\begin{aligned}
+    \min \{\|Ax-b\|_2^2+\lambda^2\|L(x-x_0)\|_2^2\}.
+\end{aligned}
+$$
+
+The banded matrix $$L$$ is set to the identity matrix $$I$$ in its standard form. The normal equation of the Tikhonov regularization is given by 
+
+$$
+\begin{aligned}
+    (\lambda^2 L^T L + A^T A)x = \lambda^2 L^T Lx_0 + A^T b.
+\end{aligned}
+$$
+
+The main analysis tool for the Tikhonov regularization is the (compact) singular value decomposition. A general problem as shown above can always be simplified to the case where the banded matrix $$L$$ is the identity matrix $$I$$ and the default solution $$x_0=0.$$ Let $$A = \sum_{j=1}^r\sigma_j u_j v_j^T$$ be the compact SVD of the matrix $$A$$ with $$r = \text{rank}(A).$$ Then the Tikhonov regularized solution is simplified to 
+
+$$
+\begin{aligned}
+    x_\lambda = \sum_{j=1}^{r} \frac{\sigma_j^2 }{\lambda^2+\sigma_j^2}\frac{u_j^Tb}{\sigma_j}v_j.
+\end{aligned}
+$$
