@@ -46,36 +46,32 @@ You may see my full report here (will be updated soon).
 To be updated
 
 ## Exploratory studies
-### L-curve and discrete ill-posed prblems
+### L-curve and discrete ill-posed prblems ([<ins>PDF</ins>](/assets/pdf/Math_221_Term_Project_final.pdf))
 
-The Tikhnov regularization is a popular approach to solve the **ill-posed** algebraic problem $$\min \|Ax-b\|_2,$$ where the matrix $$A$$ is ill-conditioned and some of its singular values gradually decay to 0. Given the default solution $$x_0,$$ the Tikhonov regularization requires the minimization of 
-
-$$
-\begin{aligned}
-    \Omega(x) = \|L(x-x_0)\|_2^2,
-\end{aligned}
-$$
-
-where $$L$$ is a banded matrix with full row rank. Tikhonov regularized solution $$x_\lambda$$ solves the following least square problem:
+The Tikhnov regularization is a popular approach to solve the **ill-posed** algebraic problem $$\min \|Ax-b\|_2,$$ where the matrix $$A$$ is ill-conditioned and some of its singular values gradually decay to 0. Tikhonov regularized solution $$x_\lambda$$ solves the following least square problem:
 
 $$
 \begin{aligned}
-    \min \{\|Ax-b\|_2^2+\lambda^2\|L(x-x_0)\|_2^2\}.
+    \min \{\|Ax-b\|_2^2+\lambda^2\|L(x-x_0)\|_2^2\},
 \end{aligned}
 $$
 
-The banded matrix $$L$$ is set to the identity matrix $$I$$ in its standard form. The normal equation of the Tikhonov regularization is given by 
+where $$L$$ is a banded matrix with full row rank and $$L=I$$ in its standard form. A continuous curve parameterized by the penalty parameter $$\lambda$$
+
+$$
+    \begin{aligned}
+        ( \|Ax_\lambda-b\|_2,  \|x_\lambda\|_2)
+    \end{aligned}
+$$
+
+on the **log-log** scale is called the L-curve in its standard form. It can be showned that the corner point of the L-curve model provides the "best" parameter for solving the minimization problem. It is significant to notice that 
 
 $$
 \begin{aligned}
-    (\lambda^2 L^T L + A^T A)x = \lambda^2 L^T Lx_0 + A^T b.
+    Ax_\lambda - b &= (A\bar x_0 - b) + (A\bar x_\lambda - A\bar x_0) + (Ax_\lambda - A\bar x_\lambda) \\
+    &= (A\bar x_0 - b) + A\underbrace{(\bar x_\lambda - \bar x_0)}_\text{(i)} + A\underbrace{(x_\lambda - \bar x_\lambda)}_\text{(ii)},
 \end{aligned}
 $$
 
-The main analysis tool for the Tikhonov regularization is the (compact) singular value decomposition. A general problem as shown above can always be simplified to the case where the banded matrix $$L$$ is the identity matrix $$I$$ and the default solution $$x_0=0.$$ Let $$A = \sum_{j=1}^r\sigma_j u_j v_j^T$$ be the compact SVD of the matrix $$A$$ with $$r = \text{rank}(A).$$ Then the Tikhonov regularized solution is simplified to 
+where $$\bar x_0$$ is the unregularized solution to the unperturbed problem, part (i) describes the regularization error, and part (ii) describes the perturbation error. If part (i) is large, then the residua norm is large. If part (ii) is large, then the regularized solution norm is large. This suggests that a regularized parameter $$\lambda$$ is optimal if it nears the corner of the L-curve. The project also discuss the application of the L-curve model, which can be seen in the full [<ins>PDF</ins>](/assets/pdf/Math_221_Term_Project_final.pdf)
 
-$$
-\begin{aligned}
-    x_\lambda = \sum_{j=1}^{r} \frac{\sigma_j^2 }{\lambda^2+\sigma_j^2}\frac{u_j^Tb}{\sigma_j}v_j.
-\end{aligned}
-$$

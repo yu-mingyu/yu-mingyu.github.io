@@ -23,7 +23,7 @@ Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.ed
 
 **Email:** <miyu02@berkeley.edu>
 
-**Resume:** [PDF](/assets/pdf/Mingyu_Yu_Resume.pdf)
+**Resume:** [<ins>PDF</ins>](/assets/pdf/Mingyu_Yu_Resume.pdf)
 
 <!-- Here ([PDF]) is the discriptions of upper division courses that I have taken.   -->
 
