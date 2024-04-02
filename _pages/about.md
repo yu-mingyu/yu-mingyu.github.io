@@ -17,17 +17,30 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solution to the slender-jet model emerging in fluid dynamics.  
+**Update**: I will join the Math PhD program at the University of Notre Dame.
 
-Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/), where I worked with [Reuven Hodges](https://rhodges-math.github.io/) on a combinatorial pattern-avoidance conjecture of maximal sphericality of the elements of tybe $$B_n$$ Coxeter groups.
+I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). My research interests include numerical analysis, partial differential equations, and algebraic combinatorics. During my undergraduate studies, I had the great honor to work with [Professor Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) and [Professor Reuven Hodges](https://rhodges-math.github.io/).
+
+
+<!-- I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solution to the slender-jet model emerging in fluid dynamics.  
+
+Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/), where I worked with [Reuven Hodges](https://rhodges-math.github.io/) on a combinatorial pattern-avoidance conjecture of maximal sphericality of the elements of tybe $$B_n$$ Coxeter groups. -->
+
 
 **Email:** <miyu02@berkeley.edu>
 
 **Resume:** [<ins>PDF</ins>](/assets/pdf/Mingyu_Yu_Resume.pdf)
 
-<!-- Here ([PDF]) is the discriptions of upper division courses that I have taken.   -->
 
 You may see more details about my research under the [research tab](/research/). 
+
+
+
+
+
+
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

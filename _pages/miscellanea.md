@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /miscellanea/
+title: Miscellanea
 description: 
-nav: true
-nav_order: 1
+nav: false
+nav_order: 2
 ---
 To be updated
 
