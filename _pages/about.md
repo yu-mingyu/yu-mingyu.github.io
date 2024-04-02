@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-**Update**: I will join the Math PhD program at the University of Notre Dame.
+**Update**: I will join the Math PhD program at [the University of Notre Dame](https://math.nd.edu/).
 
 I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). My research interests include numerical analysis, partial differential equations, and algebraic combinatorics. During my undergraduate studies, I had the great honor to work with [Professor Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) and [Professor Reuven Hodges](https://rhodges-math.github.io/).
 
