@@ -17,20 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-**Update**: I will join the Math PhD program at [the University of Notre Dame](https://math.nd.edu/).
+I am a first-year PhD student in the [Department of Mathematics](https://math.nd.edu/) at [the University of Notre Dame](https://www.nd.edu/). My main research interest is in nonlinear PDEs, particularly mathematical fluid dynamics, stochastic differential equations, and numerical analysis. My advisor is [Prof. Jiahong Wu](https://sites.nd.edu/jiahong-wu/).
 
-I am a fourth-year applied math student at [UC Berkeley](https://math.berkeley.edu/). My research interests include numerical analysis, partial differential equations, and algebraic combinatorics. During my undergraduate studies, I had the great honor to work with [Professor Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) and [Professor Reuven Hodges](https://rhodges-math.github.io/).
-
-
-<!-- I am working with [Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) on the self-similar solution to the slender-jet model emerging in fluid dynamics.  
-
-Before transferring to UC Berkeley, I was at [UC San Diego](https://math.ucsd.edu/), where I worked with [Reuven Hodges](https://rhodges-math.github.io/) on a combinatorial pattern-avoidance conjecture of maximal sphericality of the elements of tybe $$B_n$$ Coxeter groups. -->
+I received my Bachelor's degree from [UC Berkeley](https://math.berkeley.edu/). During my undergraduate studies, I was honored to work with [Prof. Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) and [Prof. Reuven Hodges](https://rhodges-math.github.io/).
 
 
-**Email:** <miyu02@berkeley.edu>
-
-**Resume:** [<ins>PDF</ins>](/assets/pdf/Mingyu_Yu_Resume.pdf)
-
+**Email:** <myu4@nd.edu>
 
 You may see more details about my research under the [research tab](/research/). 
 
