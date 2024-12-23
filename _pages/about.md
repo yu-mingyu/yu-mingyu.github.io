@@ -17,10 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in the [Department of Mathematics](https://math.nd.edu/) at [the University of Notre Dame](https://www.nd.edu/). My main research interest is in nonlinear PDEs, particularly mathematical fluid dynamics, stochastic differential equations, and numerical analysis. My advisor is [Prof. Jiahong Wu](https://sites.nd.edu/jiahong-wu/).
-
-<!-- I received my Bachelor's degree from [UC Berkeley](https://math.berkeley.edu/). During my undergraduate studies, I was honored to work with [Prof. Federico Pasqualotto](https://sites.google.com/berkeley.edu/fpasqual/home) and [Prof. Reuven Hodges](https://rhodges-math.github.io/). -->
-
+I am a first-year PhD student in the [Department of Mathematics](https://math.nd.edu/) at the University of Notre Dame. My main research interest is in nonlinear PDEs, particularly mathematical fluid dynamics, stochastic differential equations, and numerical analysis. My advisor is [Prof. Jiahong Wu](https://sites.nd.edu/jiahong-wu/).
 
 **Email:** <myu4@nd.edu>
 
