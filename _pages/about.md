@@ -17,9 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in the [Department of Mathematics](https://math.nd.edu/) at the University of Notre Dame. My main research interest is in nonlinear PDEs, particularly mathematical fluid dynamics, stochastic differential equations, and numerical analysis. My advisor is [Prof. Jiahong Wu](https://sites.nd.edu/jiahong-wu/).
+I am a second-year PhD student in the [Department of Mathematics](https://math.nd.edu/) at the University of Notre Dame. My main research interest is in nonlinear PDEs, particularly mathematical fluid dynamics, stochastic differential equations, and numerical analysis. My advisor is [Prof. Jiahong Wu](https://sites.nd.edu/jiahong-wu/). I did my undergrad in applied mathematics at UC Berkeley. 
 
 **Email:** <myu4@nd.edu>
+**Office:** Hayes-Healy Center B26
 
 You may see more details about my research under the [research tab](/research/). 
 
