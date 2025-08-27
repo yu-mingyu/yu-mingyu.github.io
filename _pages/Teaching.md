@@ -7,6 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-### Teaching experiences at Notre Dame:
+### TA:
 
-TA for Math 10350 Calculus A, Fall 2025
+- Fall 2025: TA for Math 10350 Calculus A, sections 07-09
