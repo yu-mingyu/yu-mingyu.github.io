@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 ---
-## Papers and preprints
+## Papers and Preprints
 
 2. [Adam Larios](https://adamlarios.github.io/), [Jiahong Wu](https://sites.nd.edu/jiahong-wu/), [Kazuo Yamazaki](https://sites.google.com/view/kazuo-yamazaki/home), Mingyu Yu. *A hyperbolic Navier--Stokes model with acceleration convection*. In preparation.
 1. [Gerard Misiolek](https://math.nd.edu/people/faculty/gerard-misiolek/), [Jiahong Wu](https://sites.nd.edu/jiahong-wu/), Mingyu Yu. *Regularity of the solution map for the Oldroyd--B model with fractional stress dissipation.* In preparation.
