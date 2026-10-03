@@ -13,6 +13,6 @@ nav_order: 1
 
 ## Conference Talks
 
-3. Oct 30-31, 2026. *[Prairie Analysis Seminar 2026](https://pas2026.ku.edu/schedule)*, Kansas University. Contributed talk.
+3. Oct 30-31, 2026. *[Prairie Analysis Seminar 2026](https://pas2026.ku.edu/schedule)*, University of Kansas. Contributed talk.
 2. Oct 24-25, 2026. *[SIAM NNP Section Annual Meeting](https://siamnnp2026.sciencesconf.org/?lang=en)*, Rutgers University. Contributed talk.
 1. Sept 19-20, 2026. *[SIAM Great Lakes Section Annual Meeting](https://www.purdue.edu/science/events/glsiam.html)*, Purdue University. Symposium talk.
