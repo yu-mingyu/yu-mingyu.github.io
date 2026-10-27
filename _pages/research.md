@@ -10,7 +10,7 @@ nav_order: 1
 
 3. [Jiahong Wu](https://sites.nd.edu/jiahong-wu/) and Mingyu Yu. *Ill-posedness of hyperbolic Euler equations.* In progress.
 2. [Adam Larios](https://adamlarios.github.io/), [Jiahong Wu](https://sites.nd.edu/jiahong-wu/), [Kazuo Yamazaki](https://sites.google.com/view/kazuo-yamazaki/home) and Mingyu Yu. *A hyperbolic Navier--Stokes model with acceleration convection*. In progress.
-1. [Gerard Misiolek](https://math.nd.edu/people/faculty/gerard-misiolek/), [Jiahong Wu](https://sites.nd.edu/jiahong-wu/) and Mingyu Yu. *Regularity of the solution map for the Oldroyd--B model with fractional stress dissipation.* Submitted.
+1. [Gerard Misiolek](https://math.nd.edu/people/faculty/gerard-misiolek/), [Jiahong Wu](https://sites.nd.edu/jiahong-wu/) and Mingyu Yu. *Regularity of the solution map for the Oldroyd--B model with fractional stress dissipation.* Submitted. [See also [arXiv:2610.34498](https://arxiv.org/abs/2610.34498)]
 
 ## Conference/Invited Talks
 
